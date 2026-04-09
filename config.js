@@ -64,11 +64,11 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.wait = '*🌀 جاري تحضير التشاكرا...*'
+global.rwait = '🌀'
+global.dmoji = '⛩️'
+global.done = '*✨ تمت المهمة بنجاح، أيها الشينوبي!*'
+global.error = '*🚫 حدث خلل في الختم! حاول ثانية..*' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
