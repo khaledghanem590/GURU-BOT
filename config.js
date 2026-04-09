@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['260769355624', 'official chui Msela', true],
-  ['260769355624', 'msela', true], 
+  ['201018595135', 'official chui Msela', true],
+  ['201018595135', 'msela', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "201018595135" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'msela chui'
+global.botname = 'TØUKΛ 🦉✨'
 global.premium = 'true'
-global.packname = 'msela chui' 
-global.author = '@official chui Msela 🤕' 
+global.packname = '『K H Λ L I D』' 
+global.author = 'кαиєкι 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '(قريبا بإذن بالله 👻😈)' 
+global.dygp = '(قريبا بإذن بالله 👻😈)'
+global.fgsc = '(قريبا بإذن بالله 👻😈)' 
+global.fgyt = '(قريبا بإذن بالله 👻😈)'
+global.fgpyp = '(قريبا بإذن بالله 👻😈)'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
